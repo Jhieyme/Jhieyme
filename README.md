@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">, Soy Jhieyme Torres</h1>
+<h1 align="center">Hola!, Soy Jhieyme Torres</h1> <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
 
 <!--
 **Jhieyme/Jhieyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
