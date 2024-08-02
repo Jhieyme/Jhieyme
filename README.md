@@ -19,9 +19,9 @@
 </br>
 
   <h3>Tools</h3>
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light)](https://skillicons.dev)
   
-  
+  [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light)](https://skillicons.dev)
+
 </div>
 
 
