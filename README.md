@@ -14,13 +14,13 @@
   </br>
   <h3>Tecnologías</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,sqlite,oracle,hibernate,html,docker&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,sqlite,postgres,hibernate,html,docker,azure&theme=light)](https://skillicons.dev)
   
 </br>
 
   <h3>Tools</h3>
   
-  [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=light)](https://skillicons.dev)
+  [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,jira,trello,&theme=light)](https://skillicons.dev)
 
 </div>
 
