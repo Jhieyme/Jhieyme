@@ -20,7 +20,7 @@
 
   <h3>Tools</h3>
   
-  [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=light)](https://skillicons.dev)
+  [![My Tools](https://skillicons.dev/icons?i=maven,gradle,git,github,vscode,idea,postman&theme=light)](https://skillicons.dev)
 
 </div>
 
