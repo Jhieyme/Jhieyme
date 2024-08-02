@@ -14,7 +14,7 @@
   </br>
   <h3>Tecnologías</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,sqlite,oracle,hibernate,html,docker&theme=light)](https://skillicons.dev)
   
 </br>
 
