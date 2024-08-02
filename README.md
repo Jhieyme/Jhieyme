@@ -7,7 +7,7 @@
 <p>
   <a href="www.linkedin.com/in/jhieyme-torres" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/jhieyme/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/jennifer.torrespalomino24/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Facebook-e95950?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+  <a href="https://www.facebook.com/jennifer.torrespalomino24/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </p>
 
   <!-- Languages -->
