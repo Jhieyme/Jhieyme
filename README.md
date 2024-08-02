@@ -3,7 +3,7 @@
 
 <div width="100">
 
-<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20">Mis redes sociales</h2>
+<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales</h2>
 <p>
   <a href="https://www.linkedin.com/in/jhieyme-torres/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/jhieyme/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
