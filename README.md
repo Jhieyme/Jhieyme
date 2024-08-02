@@ -7,7 +7,7 @@
   </br>
   <h3>Tecnologias</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,docker&theme=light)](https://skillicons.dev)
   
 </div>
 
