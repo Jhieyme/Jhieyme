@@ -18,27 +18,7 @@
 
 <div width="100">
 
-<!--
-<h2>
-    <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales
-</h2>
-
-
-<p>
-  <a href="https://www.linkedin.com/in/jhieyme-torres/" target="_blank"> 
-      <img height="28" src = "https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-    
-  <a href="https://www.instagram.com/jhieyme/" target="_blank">
-      <img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  
-  <a href="https://www.facebook.com/jennifer.torrespalomino24/" target="_blank">
-      <img height="28" src = "https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white"></a>   
-</p>
--->
-<!-- ==================================================================================================================================== -->
-
 <h2> Skills </h2>
-
 
 <h4>Lenguajes y Frameworks</h4>
 
@@ -48,7 +28,7 @@
 
 </br>
 
-<h4>Bases de Datos</h4>
+<h4>Bases de datos</h4>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
@@ -57,7 +37,7 @@
 
 </br>
 
-<h4>Desarrollo Web y Contenedores</h4>
+<h4>Desarrollo web y Contenedores</h4>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
@@ -65,7 +45,7 @@
 
 </br>
 
-<h4>Herramientas de Desarrollo</h4>
+<h4>Herramientas de desarrollo</h4>
 
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven Badge">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle Badge">
@@ -93,6 +73,8 @@
 
 </br>
 -->
+
+
 <!-- ==================================================================================================================================== -->
 <h2>Proyectos </h2>
 
@@ -101,15 +83,13 @@
 
 <Br>
 
-<h2>Mis estadísticas de GitHub</h2>
+<!-- ==================================================================================================================================== -->
+
+<h2>Mis estadísticas</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhieyme" /></p>
 
 <br><br><br><br><br><br><br><br>
-
-<!--
-<h2> <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales </h2>
--->
 
 <hr>
 
@@ -130,21 +110,4 @@
 <br>
 </p>
 
-<!--
-
-<a target="_blank" href="https://www.linkedin.com/in/jhieyme-torres/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-
-<a target="_blank" href="https://www.instagram.com/jhieyme/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-    
-<a target="_blank" href="https://www.facebook.com/jennifer.torrespalomino24/">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-
-<br>
-</p>
--->
 </div>
-
-
-
