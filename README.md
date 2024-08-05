@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="left">Mis redes sociales</h3>
+<h3>Mis redes sociales</h3>
 
 <p>
     
