@@ -115,6 +115,9 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhieyme" height="25" width="25" /></a>
 </p>
 -->
+
+<hr>
+
 </div>
 
 
