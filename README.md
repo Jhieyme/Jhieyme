@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=E289F7&center=true&vCenter=true&width=435&lines=Bienvenido(a)+%3A)" alt="Typing SVG" />
 </p>
 
-<br>
 
 <h2>
     Sobre mi
