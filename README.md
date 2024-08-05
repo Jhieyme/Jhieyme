@@ -33,6 +33,8 @@
   
   [![My Tools](https://skillicons.dev/icons?i=maven,gradle,git,github,vscode,idea,postman&theme=light)](https://skillicons.dev)
 
+</br>
+
   <h3>Mis estadísticas de GitHub</h3>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhieyme" /></p>
