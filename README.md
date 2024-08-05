@@ -13,6 +13,8 @@
 <br>
 <div width="100">
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhieyme" /></p>
+
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales</h2>
 <p>
   <a href="https://www.linkedin.com/in/jhieyme-torres/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
