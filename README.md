@@ -57,7 +57,7 @@
 <h2> Skills </h2>
 
 
-<h3>Lenguajes y Frameworks</h3>
+<h4>Lenguajes y Frameworks</h4>
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge">
@@ -65,7 +65,7 @@
 
 </br>
 
-<h3>Bases de Datos</h3>
+<h4>Bases de Datos</h4>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
@@ -74,7 +74,7 @@
 
 </br>
 
-<h3>Desarrollo Web y Contenedores</h3>
+<h4>Desarrollo Web y Contenedores</h4>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
@@ -82,7 +82,7 @@
 
 </br>
 
-<h3>Herramientas de Desarrollo</h3>
+<h4>Herramientas de Desarrollo</h4>
 
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven Badge">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle Badge">
