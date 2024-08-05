@@ -13,7 +13,6 @@
 <br>
 <div width="100">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhieyme" /></p>
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales</h2>
 <p>
@@ -34,6 +33,12 @@
   
   [![My Tools](https://skillicons.dev/icons?i=maven,gradle,git,github,vscode,idea,postman&theme=light)](https://skillicons.dev)
 
+  <h3>Mis estadísticas de GitHub</h3>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhieyme" /></p>
+
 </div>
+
+
 
 
