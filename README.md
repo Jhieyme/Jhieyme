@@ -78,7 +78,7 @@
 <!-- ==================================================================================================================================== -->
 <h2>Proyectos </h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=FileManager&bg_color=bcaabf&text_color=ffffff&border_radius=50px)](https://github.com/Jhieyme/FileManager)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=FileManager&bg_color=bcaabf&title_color=ffffff&text_color=ffffff&border_radius=50px)](https://github.com/Jhieyme/FileManager)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=PlayZoomAndroid&theme=dark&text_color=ffffff)](https://github.com/Jhieyme/PlayZoomAndroid)
 
 <Br>
