@@ -8,6 +8,8 @@
 <br>
 
 <p>🎓 Desarrolladora Backend Jr. </p>
+<p>🙌 Siempre aprendiendo cosas nuevas. </p>
+
 
 <div width="100">
 
