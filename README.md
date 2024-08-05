@@ -99,7 +99,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhieyme" /></p>
 
-<br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <!--
 <h2> <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales </h2>
@@ -122,8 +122,7 @@
    <i>Mis redes sociales: </i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-    
+
 <a target="_blank" href="https://www.linkedin.com/in/jhieyme-torres/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
     
