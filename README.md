@@ -7,6 +7,10 @@
 
 <br>
 
+<h2>
+    <img src="https://tenor.com/es/view/happy-smile-good-emoji-joy-gif-17156552480473544169" height="20"> Mis redes sociales
+</h2>
+
 <p>🎓 Desarrolladora Backend Jr. </p>
 <p>🙌 Siempre aprendiendo cosas nuevas. </p>
 <p>💡 Me gusta explorar nuevas tecnologías y usar nuevas herramientas. </p>
@@ -14,7 +18,6 @@
 
 <br>
 <div width="100">
-
 
 <h2>
     <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales
