@@ -87,7 +87,7 @@
 
 <h2>Mis estadísticas</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&title_color=ffffff&locale=es&layout=compact" alt="jhieyme" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&bg_color=00000000&title_color=ffffff&locale=es&layout=compact" alt="jhieyme" /></p>
 
 <br><br><br><br><br><br><br><br>
 
