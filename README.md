@@ -78,8 +78,8 @@
 <!-- ==================================================================================================================================== -->
 <h2>Proyectos </h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=FileManager&border_color=c9c0cc&bg_color=00000000&title_color=ffffff&icon_color=c9c0cc&text_color=ffffff&border_radius=15px)](https://github.com/Jhieyme/FileManager)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=PlayZoomAndroid&border_color=c9c0cc&bg_color=00000000&title_color=ffffff&icon_color=c9c0cc&text_color=ffffff&border_radius=15px)](https://github.com/Jhieyme/PlayZoomAndroid)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=FileManager&border_color=c9c0cc&bg_color=161b22&title_color=ffffff&icon_color=c9c0cc&text_color=ffffff&border_radius=15px)](https://github.com/Jhieyme/FileManager)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=PlayZoomAndroid&border_color=c9c0cc&bg_color=161b22&title_color=ffffff&icon_color=c9c0cc&text_color=ffffff&border_radius=15px)](https://github.com/Jhieyme/PlayZoomAndroid)
 
 <Br>
 
@@ -87,7 +87,7 @@
 
 <h2>Mis estadísticas</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&locale=es&layout=compact" alt="jhieyme" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&bg_color=161b22&text_color=ffffff&title_color=ffffff&locale=es&layout=compact" alt="jhieyme" /></p>
 
 <br><br><br><br><br><br><br><br>
 
