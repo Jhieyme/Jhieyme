@@ -8,7 +8,7 @@
 <br>
 
 <h2>
-    <img src="https://media.tenor.com/images/17156552480473544169/tenor.gif" alt="GIF de Tenor" height="20"> Sobre mi
+    Sobre mi
 </h2>
 
 <p>🎓 Desarrolladora Backend Jr. </p>
@@ -90,7 +90,7 @@
 -->
 <!-- ==================================================================================================================================== -->
 
-<h3>Mis estadísticas de GitHub</h3>
+<h2>Mis estadísticas de GitHub</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhieyme" /></p>
   
