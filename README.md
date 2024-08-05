@@ -36,6 +36,8 @@
   <h3>Mis estadísticas de GitHub</h3>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhieyme" /></p>
+</br>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhieyme" /></p>
 
 </div>
 
