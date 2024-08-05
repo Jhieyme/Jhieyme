@@ -54,6 +54,9 @@
 
 <!-- ==================================================================================================================================== -->
 
+<h2> Skills </h2>
+
+
 <h3>Lenguajes y Frameworks</h3>
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
