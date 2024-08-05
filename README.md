@@ -100,15 +100,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhieyme" /></p>
 
-</br><br>
+<br><br>
 
 <!--
 <h2>
     <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales
 </h2>
 -->
-<p align="center">
-    
+  
 <a href="https://www.linkedin.com/in/jhieyme-torres/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhieyme torres palomino" height="30" width="40" /></a>
     
@@ -117,7 +116,6 @@
     
 <a href="https://www.instagram.com/jhieyme/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhieyme" height="30" width="40" /></a>
-</p>
 
 </div>
 
