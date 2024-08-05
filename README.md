@@ -9,6 +9,8 @@
 
 <p>🎓 Desarrolladora Backend Jr. </p>
 <p>🙌 Siempre aprendiendo cosas nuevas. </p>
+<p>💡 Me gusta explorar nuevas tecnologías y usar nuevas herramientas. </p>
+<p> Actualmente, estoy en camino de aprender más sobre el desarrollo backend. </p>
 
 <br>
 <div width="100">
