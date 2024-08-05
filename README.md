@@ -78,7 +78,7 @@
 <!-- ==================================================================================================================================== -->
 <h2>Proyectos </h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=FileManager&theme=radical)](https://github.com/Jhieyme/FileManager)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=FileManager&theme=dark)](https://github.com/Jhieyme/FileManager)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=PlayZoomAndroid&theme=dark)](https://github.com/Jhieyme/PlayZoomAndroid)
 
 <Br>
@@ -87,7 +87,7 @@
 
 <h2>Mis estadísticas</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=light&locale=en&layout=compact" alt="jhieyme" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhieyme&show_icons=true&theme=tokyo-night&locale=es&layout=compact" alt="jhieyme" /></p>
 
 <br><br><br><br><br><br><br><br>
 
