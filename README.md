@@ -96,7 +96,6 @@
 <!-- ==================================================================================================================================== -->
 <h2>Proyectos </h2>
 
-![Jhieyme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhieyme&show_icons=true&theme=dark)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=FileManager)](https://github.com/Jhieyme/FileManager)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=PlayZoomAndroid)](https://github.com/Jhieyme/PlayZoomAndroid)
 
