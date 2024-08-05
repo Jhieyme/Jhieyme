@@ -112,11 +112,12 @@
    <br>
 <br>
 
-<a href="https://www.instagram.com/jhieyme/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhieyme" height="25" width="25" /></a>
     
 <a href="https://www.facebook.com/jennifer.torrespalomino24/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@jhieyme" height="25" width="25" /></a>
+
+<a href="https://www.instagram.com/jhieyme/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhieyme" height="25" width="25" /></a>
 
 <a href="https://www.linkedin.com/in/jhieyme-torres/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhieyme torres palomino" height="25" width="25" /></a>
