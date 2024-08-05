@@ -8,7 +8,7 @@
 <br>
 
 <h2>
-    <img src="https://tenor.com/es/view/happy-smile-good-emoji-joy-gif-17156552480473544169" height="20"> Sobre mi
+    <img src="https://media.tenor.com/images/17156552480473544169/tenor.gif" alt="GIF de Tenor" height="20"> Sobre mi
 </h2>
 
 <p>🎓 Desarrolladora Backend Jr. </p>
