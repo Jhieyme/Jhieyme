@@ -18,7 +18,7 @@
 
 <div width="100">
 
-<h2> Skills </h2>
+<h2> Habilidades </h2>
 
 <h4>Lenguajes y Frameworks</h4>
 
