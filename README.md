@@ -18,7 +18,7 @@
 
 <div width="100">
 
-<!--
+
 <h2>
     <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales
 </h2>
@@ -34,7 +34,6 @@
   <a href="https://www.facebook.com/jennifer.torrespalomino24/" target="_blank">
       <img height="28" src = "https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white"></a>   
 </p>
--->
 
 <!-- ==================================================================================================================================== -->
 
@@ -102,6 +101,7 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
+<!--
 <h2> <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales </h2>
 
 <p aling="center">
@@ -114,7 +114,7 @@
 <a href="https://www.instagram.com/jhieyme/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhieyme" height="25" width="25" /></a>
 </p>
-
+-->
 </div>
 
 
