@@ -10,7 +10,7 @@
 <p>🎓 Desarrolladora Backend Jr. </p>
 <p>🙌 Siempre aprendiendo cosas nuevas. </p>
 
-
+<br>
 <div width="100">
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales</h2>
