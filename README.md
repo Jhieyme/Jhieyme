@@ -119,7 +119,7 @@
 <hr>
 
 <p align="center">
-   <i>Mis redes sociales: </i>
+   <i>Cada desafío es una oportunidad para aprender y crecer. </i>
    <br>
 <br>
 
