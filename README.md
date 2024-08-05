@@ -19,7 +19,7 @@
 
 <h3 align="left">Mis redes sociales</h3>
 
-<p align="center">
+<p>
     
 <a href="https://www.linkedin.com/in/jhieyme-torres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhieyme torres palomino" height="30" width="40" /></a>
 
