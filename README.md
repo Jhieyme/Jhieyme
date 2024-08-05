@@ -107,8 +107,10 @@
     <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales
 </h2>
 -->
-  
-<a href="https://www.linkedin.com/in/jhieyme-torres/" target="_blank">
+</div>
+
+<div>
+    <a href="https://www.linkedin.com/in/jhieyme-torres/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhieyme torres palomino" height="30" width="40" /></a>
     
 <a href="https://www.facebook.com/jennifer.torrespalomino24/" target="_blank">
@@ -116,7 +118,6 @@
     
 <a href="https://www.instagram.com/jhieyme/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhieyme" height="30" width="40" /></a>
-
 </div>
 
 
