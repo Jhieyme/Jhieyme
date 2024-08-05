@@ -110,4 +110,6 @@
 <br>
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/Jhieyme/count.svg)
+
 </div>
