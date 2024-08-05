@@ -80,7 +80,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=FileManager&bg_color=bcaabf&title_color=ffffff&icon_color=9e7f18&text_color=ffffff&border_radius=50px)](https://github.com/Jhieyme/FileManager)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=PlayZoomAndroid&theme=dark&text_color=ffffff)](https://github.com/Jhieyme/PlayZoomAndroid)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jhieyme&repo=PlayZoomAndroid&theme=dark&text_color=ffffff&icon_color=9e7f18&)](https://github.com/Jhieyme/PlayZoomAndroid)
 
 <Br>
 
